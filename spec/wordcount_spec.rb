@@ -2,8 +2,8 @@ require('rspec')
 require('wordcount')
 
 describe('String#wordcount') do
-  it("returns how frequently it appears in the argument") do
-    expect(("would").wordcount("how much wood would a woodchuck chuck if a woodchuck could chuck wood?")).to(eq(1))
+  it("returns the number of appearances the given word (object) makes in the given sentence (argument)") do
+    expect(("happy").wordcount("I am so very happy, happy, happy to be getting my code reviewed today.")).to(eq(3))
   end
 
 end
