@@ -17,3 +17,6 @@ SETUP INSTRUCTIONS<br>
 5. in your views directory, copy & paste the contents of repository 'index', 'layout', and 'wordcount' ERB files into your own<br>
 6. run sinatra<br>
 7. enjoy!
+
+HEROKU
+https://enigmatic-reef-8346.herokuapp.com/
