@@ -20,3 +20,5 @@ SETUP INSTRUCTIONS<br>
 
 HEROKU
 https://enigmatic-reef-8346.herokuapp.com/
+
+note to teachers: double checked all repo files, ran everything in terminal/irb, all specs pass, however heroku still not working! :( 
