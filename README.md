@@ -15,10 +15,7 @@ SETUP INSTRUCTIONS<br>
 3. in your lib directory, copy & paste the contents of repository 'wordcount.rb' file into your own<br>
 4. in your spec directory, copy & paste the contents of repository 'wordcount_integration_spec.rb' & 'wordcount_spec.rb' into your own<br>
 5. in your views directory, copy & paste the contents of repository 'index', 'layout', and 'wordcount' ERB files into your own<br>
-6. run sinatra<br>
-7. enjoy!
+6. enjoy!
 
 HEROKU
 https://enigmatic-reef-8346.herokuapp.com/
-
-note to teachers: double checked all repo files, ran everything in terminal/irb, all specs pass, however heroku still not working! :( 
